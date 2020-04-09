@@ -21,7 +21,7 @@ def gen_password(user_details):
 #adding employee details
 status = True
 employees = []
-user = 1
+
 while status:
        
     user_details = get_details()
